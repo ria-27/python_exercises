@@ -1,3 +1,5 @@
+# Program to display user details
+
 print("Hello World")
 print("What is your name?")
 name = input()
